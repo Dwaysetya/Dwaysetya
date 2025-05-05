@@ -1,8 +1,3 @@
-## 🧾 About This Repository
-
-This repository contains the source code for my personal website and portfolio, focusing on HTML and external CSS structuring, highlighting personal background and project showcases for easier access and presentation.
-
-
 ![Dway setyabudi](./assets/images/github-header-image.png)
 ###
 
